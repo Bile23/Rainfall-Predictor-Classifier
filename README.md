@@ -29,3 +29,7 @@ True Positive Rate (Logistic Regression): 51%
 The original dataset was obtained from Kaggle, and originates from the Australian Government's Bureau of Meteorology. Column descriptions were gathered from the official climate data guide.
 
 The dataset includes daily weather observations from 2008 to 2017 across various Australian locations.
+
+- Kaggle :<https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/>
+- Australian Government's Bureau of Meteorology <http://www.bom.gov.au/climate/dwo/>
+- Column definitions were gathered from <http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml>
